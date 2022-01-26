@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">595507630129-7iie8cdu2kuufvm8jt18up7kkuv197b4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">595507630129</string>
+    <string name="google_api_key" translatable="false">AIzaSyAY1dzalBv4Vuzj6_abKBVTsxxilPg3Y5s</string>
+    <string name="google_app_id" translatable="false">1:595507630129:android:793ba14af1e71fe71ec510</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAY1dzalBv4Vuzj6_abKBVTsxxilPg3Y5s</string>
+    <string name="google_storage_bucket" translatable="false">e-butlerdb.appspot.com</string>
+    <string name="project_id" translatable="false">e-butlerdb</string>
+</resources>

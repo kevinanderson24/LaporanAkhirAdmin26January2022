@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595507630129",
+    "project_id": "e-butlerdb",
+    "storage_bucket": "e-butlerdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595507630129:android:793ba14af1e71fe71ec510",
+        "android_client_info": {
+          "package_name": "com.example.ebutler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595507630129-7iie8cdu2kuufvm8jt18up7kkuv197b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1dzalBv4Vuzj6_abKBVTsxxilPg3Y5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595507630129-7iie8cdu2kuufvm8jt18up7kkuv197b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
